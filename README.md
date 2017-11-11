@@ -1,4 +1,4 @@
-# MacOS apps I use
+# List of MacOS apps I use
 
 ## Development
 
