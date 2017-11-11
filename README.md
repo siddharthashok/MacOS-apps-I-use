@@ -1,4 +1,4 @@
-#MacOS app I use
+# MacOS app I use
 
 ## Development
 
